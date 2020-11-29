@@ -1,3 +1,3 @@
 #KAKAOCLONE2020 UPDATE
 
-css is too dificult
+HTML & CSS are so much got better
