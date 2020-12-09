@@ -21,6 +21,7 @@
   justify-content: space-between;
   color: rgba(0, 0, 0, 0.5);
   margin-bottom: 25px;
+  margin-top: 4px;
 }
 
 .open-chat__header span {
@@ -49,8 +50,8 @@
 }
 
 .open-post__members img {
-  width: 15px;
-  height: 15px;
+  width: 20px;
+  height: 20px;
   border-radius: 50%;
   margin-right: 5px;
 }
@@ -121,4 +122,12 @@
 .open-post__photo :hover img {
   will-change: transform;
   animation: heartBeat 1s linear infinite;
+}
+
+.find-recommend__frined {
+  margin-top: 18px;
+}
+
+.find-recommend__frined__2 {
+  margin-top: 8px;
 }
