@@ -1,5 +1,5 @@
 #chat-screen {
-  background-color: #abc1d1;
+  background-color: #f3eeea;
   height: 500vh;
 }
 
@@ -9,7 +9,7 @@
   position: fixed;
   width: 100%;
   box-sizing: border-box;
-  background-color: #abc1d1;
+  background-color: #f3eeea;
 }
 
 #chat-screen .status-bar {
@@ -42,7 +42,7 @@
 
 .chat__timestamp {
   color: white;
-  background-color: #92a4b2;
+  background-color: #e8e8e8;
   padding: 6px 15px;
   font-size: 13px;
   border-radius: 16px;
@@ -75,7 +75,7 @@
 }
 
 .message__bubble {
-  background-color: white;
+  background-color: #e8dbd3;
   padding: 8px 13px;
   font-size: 18px;
   border-radius: 15px;
@@ -93,7 +93,7 @@
 }
 
 .message-row--own .message__bubble {
-  background-color: var(--yellow);
+  background-color: #bfaca6;
   border-top-right-radius: 0px;
   border-top-left-radius: 15px;
   margin-right: 0px;
@@ -148,7 +148,7 @@
 }
 
 .reply__column button {
-  background-color: var(--yellow);
+  background-color: #bfaca6;
   border: none;
   width: 30px;
   height: 30px;
